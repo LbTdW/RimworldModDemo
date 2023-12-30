@@ -49,8 +49,8 @@
         <recipeMaker>
             <skillRequirements>
                 <Crafting>5</Crafting>
-                <researchPrerequisite>tutorial_Research</researchPrerequisite>
             </skillRequirements>
+            <researchPrerequisite>tutorial_Research</researchPrerequisite>
         </recipeMaker>
         <verbs>
             <li>
